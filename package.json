@@ -1,0 +1,17 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.81.0",
+    "zombie": "^5.0.5"
+  }
+}
